@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Custom_Method/1.0.0": {
+        "dependencies": {
+          "Custom_Method.Core": "1.0.0"
+        },
+        "runtime": {
+          "Custom_Method.dll": {}
+        }
+      },
+      "Custom_Method.Core/1.0.0": {
+        "runtime": {
+          "Custom_Method.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Custom_Method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Custom_Method.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
